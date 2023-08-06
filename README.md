@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ademar Valente</h1>
 <h3 align="center">I am showing to you my work and offering my knowledge to all that are pleased with what i do and with the passion that i try to print in my keyboard when i work. I hope you enjoy! Don't hesitate to contact me.</h3>
-<img align="right" width="400" src="https://media2.giphy.com/media/lic89YBESaCq9ODcTH/giphy.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/LBgcS59Cdm0hsZPuIu/giphy-downsized-large.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ademar1k82&label=Profile%20views&color=0e75b6&style=flat" alt="ademar1k82" /> </p>
 
